@@ -3,9 +3,6 @@ import Link from "next/link";
 import styles from "../styles/Home.module.css";
 
 const Home: NextPage = () => {
-  //MPA vs SPA
-  //html->html
-  //
   return (
     <div className={styles.container}>
       <main className={styles.main}>
